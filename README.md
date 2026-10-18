@@ -15,7 +15,7 @@ in Grand Tunis, Sousse, Monastir or Mahdia, Tunisia.
   academic MERN application with booking workflows and optional Gemini summaries.
 - [AmanaFarm](https://github.com/hawalayessin/AmanaFarm):
   agricultural marketplace using Spring Boot and Angular.
-- [BI portfolio](https://github.com/hawalayessin/portfolio/tree/main/bi-projects):
+- [BI portfolio](https://github.com/hawalayessin/bi-data-portfolio):
   FIFA World Cup and Car Sales dashboards.
 
 [Portfolio](https://portfoliohawala.vercel.app/) ·
