@@ -4,8 +4,7 @@ Computer Engineering graduate (2026), specializing in Business Intelligence.
 I build web applications, REST APIs and analytical dashboards using **React,
 TypeScript, Python/FastAPI, PostgreSQL, SQL and Power BI**.
 
-I am looking for a first junior position in **Full Stack development or BI/Data**
-in Grand Tunis, Sousse, Monastir or Mahdia, Tunisia.
+I am looking for a first junior position in **Full Stack development or BI/Data**.
 
 ## Selected projects
 
